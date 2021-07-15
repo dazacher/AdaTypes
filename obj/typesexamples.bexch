@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__typesexamples.o
+[PROJECT FILES]
+C:\Users\User\Ada\AdaTypes\types.gpr
+20210715172722 2e9dc0b46957b8be282eb288dd34def7
+[BOUND OBJECT FILES]
+C:\Users\User\Ada\AdaTypes\obj\typesexamples.o
+[GENERATED SOURCE FILES]
+b__typesexamples.ads
+b__typesexamples.adb
+b__typesexamples.ali
+[RESULTING OPTIONS]
+-LC:\Users\User\Ada\AdaTypes\obj\
+-LC:\Users\User\Ada\AdaTypes\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000
